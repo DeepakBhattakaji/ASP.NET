@@ -1,0 +1,7 @@
+D:\Backed Up Folders and FIles August 2018\MCA Notes LPU Punjab\MCA 3rd Year  5th Semester\MCA 5th Semester All Practicals\ASP.NET LAB\ASP_ALL_In_1\ASP_ALL_In_1\obj\Debug\ASP_ALL_In_1.csproj.CoreCompileInputs.cache
+D:\Backed Up Folders and FIles August 2018\MCA Notes LPU Punjab\MCA 3rd Year  5th Semester\MCA 5th Semester All Practicals\ASP.NET LAB\ASP_ALL_In_1\ASP_ALL_In_1\bin\ASP_ALL_In_1.dll.config
+D:\Backed Up Folders and FIles August 2018\MCA Notes LPU Punjab\MCA 3rd Year  5th Semester\MCA 5th Semester All Practicals\ASP.NET LAB\ASP_ALL_In_1\ASP_ALL_In_1\bin\ASP_ALL_In_1.dll
+D:\Backed Up Folders and FIles August 2018\MCA Notes LPU Punjab\MCA 3rd Year  5th Semester\MCA 5th Semester All Practicals\ASP.NET LAB\ASP_ALL_In_1\ASP_ALL_In_1\bin\ASP_ALL_In_1.pdb
+D:\Backed Up Folders and FIles August 2018\MCA Notes LPU Punjab\MCA 3rd Year  5th Semester\MCA 5th Semester All Practicals\ASP.NET LAB\ASP_ALL_In_1\ASP_ALL_In_1\obj\Debug\ASP_ALL_In_1.dll
+D:\Backed Up Folders and FIles August 2018\MCA Notes LPU Punjab\MCA 3rd Year  5th Semester\MCA 5th Semester All Practicals\ASP.NET LAB\ASP_ALL_In_1\ASP_ALL_In_1\obj\Debug\ASP_ALL_In_1.pdb
+D:\Backed Up Folders and FIles August 2018\MCA Notes LPU Punjab\MCA 3rd Year  5th Semester\MCA 5th Semester All Practicals\ASP.NET LAB\ASP_ALL_In_1\ASP_ALL_In_1\obj\Debug\ASP_ALL_In_1.csprojAssemblyReference.cache
