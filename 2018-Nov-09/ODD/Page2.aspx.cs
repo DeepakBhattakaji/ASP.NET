@@ -44,6 +44,7 @@ namespace ASP_ALL_In_1._2018_Nov_09
 
         protected void linkbtnBack_Click(object sender, EventArgs e)
         {
+            Session.Abandon();
             Response.Redirect("Page1.aspx");
         }
     }
